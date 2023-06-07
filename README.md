@@ -12,3 +12,5 @@
 
 #### Conclusão
     praticar mais
+
+# inclusão pelo Visual Basic local
